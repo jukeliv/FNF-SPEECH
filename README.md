@@ -1,4 +1,4 @@
-# Discord_RidingBot
+# SpamBot 0.01v
 
 //everyone can use this python program, just let credits XD
 
