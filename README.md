@@ -6,3 +6,4 @@ things to install:
 
 pip install pyautogui
 pip install pynput
+pip install tkinter
