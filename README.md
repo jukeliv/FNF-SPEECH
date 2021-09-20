@@ -1,4 +1,4 @@
-# SpamBot 0.01v
+# SpamBot 0.011v
 
 //everyone can use this python program, just let credits XD
 
