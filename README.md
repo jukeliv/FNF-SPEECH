@@ -5,5 +5,7 @@
 things to install:
 
 pip install pyautogui
+/n
 pip install pynput
+/n
 pip install tkinter
